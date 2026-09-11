@@ -116,21 +116,17 @@ We appreciate the following people who contributed to this solution:
   <tr>
     <td align="center">
       <img src="images/2023/photo2.jpg" width="400px" alt="Event Photo"/>
-      <br><sub>Event Moment</sub>
     </td>
     <td align="center">
       <img src="images/2023/photo3.jpg" width="400px" alt="Team Moment"/>
-      <br><sub>Team Moment</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="images/2023/photo6.jpg" width="400px" alt="Challenge Day"/>
-      <br><sub>Challenge Day</sub>
     </td>
     <td align="center">
       <img src="images/2023/photo9.jpg" width="400px" alt="Event Conclusion"/>
-      <br><sub>Event Conclusion</sub>
     </td>
   </tr>
 </table>
@@ -247,21 +243,17 @@ We appreciate the following people who contributed to this solution:
   <tr>
     <td align="center">
       <img src="images/2024/photo9.jpg" width="400px" alt="Event Photo"/>
-      <br><sub>Event Moment</sub>
     </td>
     <td align="center">
       <img src="images/2024/photo11.jpg" width="400px" alt="Team Photo"/>
-      <br><sub>Team Moment</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="images/2024/photo5.jpg" width="400px" alt="Challenge Day"/>
-      <br><sub>Challenge Day</sub>
     </td>
     <td align="center">
       <img src="images/2024/photo13.jpg" width="400px" alt="Event Conclusion"/>
-      <br><sub>Event Conclusion</sub>
     </td>
   </tr>
 </table>
@@ -372,21 +364,17 @@ We appreciate the following people who contributed to this solution:
   <tr>
     <td align="center">
       <img src="images/2025/photo9.jpg" width="400px" alt="Team Photo"/>
-      <br><sub>Team Moment</sub>
     </td>
     <td align="center">
       <img src="images/2025/photo8.jpg" width="400px" alt="Event Conclusion"/>
-      <br><sub>Event Conclusion</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="images/2025/photo1.jpg" width="400px" alt="Event Photo"/>
-      <br><sub>Event Moment</sub>
     </td>
     <td align="center">
       <img src="images/2025/photo6.jpg" width="400px" alt="Challenge Day"/>
-      <br><sub>Challenge Day</sub>
     </td>
   </tr>
 </table>
